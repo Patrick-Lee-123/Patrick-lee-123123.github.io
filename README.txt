@@ -2,7 +2,9 @@ Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Templat edited by patrick lee, open files to run localy
+Template edited by patrick lee S00306451, open files to run locally. This is the teaching portfolio that outlines experience and perspectives.
+
+
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 and an assortment of pre-styled elements. So, pretty much what you were expecting
 -- except, of course, for how it's put together, specifically:
